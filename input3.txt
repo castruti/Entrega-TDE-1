@@ -1,0 +1,16 @@
+5
+I
+2, 4, 6, 8
+1, 2, 3, 4
+D
+maça, banana, uva
+banana, uva, pera
+U
+1, 2, 3
+3, 4, 5
+C
+A, B
+X, Y
+U
+vermelho, azul
+verde, azul, amarelo
